@@ -242,7 +242,7 @@ SVG(model_to_dot(model, show_shapes=True).create(prog='dot', format='svg'))
 
 
     
-![svg](output_13_0.svg)
+![output_13_0](https://user-images.githubusercontent.com/48349693/108486983-11b23880-72e2-11eb-96f5-96d1d2e08932.jpg)
     
 
 
